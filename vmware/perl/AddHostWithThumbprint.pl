@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 
 ## AddHostWithThumbprint.pl
-## Created by Reuben Stump (reuben.stump@gmail.com)
+## Created by Reuben Stump (http://www.virtuin.com)
 ## Example script to demonstrate generation of SSL Thumbprint of an ESXi HostSystem
 ##  and calling AddHost_Task() to add the HostSystem to vCenter with SSL validation.
 
